@@ -6,5 +6,5 @@ public class MiniInfo {
 
     public static final String NAME="王大锤";
 
-    public static final String READ = "我是master";
+
 }
