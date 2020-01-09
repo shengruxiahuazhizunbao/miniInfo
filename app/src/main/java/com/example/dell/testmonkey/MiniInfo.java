@@ -10,5 +10,6 @@ public class MiniInfo {
 
     public static final String READ = "我是新分支";
     public static final String MIX = "分支增加内容";
+    public static final String MAX = "MM";
 
 }
