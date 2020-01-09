@@ -12,7 +12,7 @@ public class MiniInfo {
     public static final String MIX = "分支增加内容";
     public static final String MAX = "MMKyyyy";
 
-    public static final String MAX = "MMKyyyy";
+
 
 
 }
